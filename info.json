@@ -1,0 +1,85 @@
+{
+    "patterns": {
+        "polly": {
+            "prodReady": false
+        },
+        "s3-angular-website": {
+            "prodReady": false
+        },
+        "s3-react-website": {
+            "prodReady": false
+        },
+        "the-alexa-skill": {
+            "prodReady": false
+        },
+        "the-basic-mq": {
+            "prodReady": false
+        },
+        "the-big-fan": {
+            "prodReady": false
+        },
+        "the-cloudwatch-dashboard": {
+            "prodReady": false
+        },
+        "the-destined-lambda": {
+            "prodReady": false
+        },
+        "the-dynamo-streamer": {
+            "prodReady": false
+        },
+        "the-efs-lambda": {
+            "prodReady": false
+        },
+        "the-eventbridge-atm": {
+            "prodReady": false
+        },
+        "the-eventbridge-circuit-breaker": {
+            "prodReady": false
+        },
+        "the-eventbridge-etl": {
+            "prodReady": false
+        },
+        "the-lambda-circuit-breaker": {
+            "prodReady": false
+        },
+        "the-lambda-power-tuner": {
+            "prodReady": false
+        },
+        "the-lambda-trilogy": {
+            "prodReady": false
+        },
+        "the-media-live-stream": {
+            "prodReady": false
+        },
+        "the-predictive-lambda": {
+            "prodReady": false
+        },
+        "the-rds-proxy": {
+            "prodReady": false
+        },
+        "the-saga-stepfunction": {
+            "prodReady": false
+        },
+        "the-scalable-webhook": {
+            "prodReady": false
+        },
+        "the-scheduled-lambda": {
+            "prodReady": false
+        },
+        "the-simple-graphql-service": {
+            "prodReady": false
+        },
+        "the-simple-webservice": {
+            "prodReady": false
+        },
+        "the-state-machine": {
+            "prodReady": false
+        },
+        "the-waf-apigateway": {
+            "prodReady": false
+        },
+        "the-xray-tracer": {
+            "prodReady": false
+        }
+    }
+}
