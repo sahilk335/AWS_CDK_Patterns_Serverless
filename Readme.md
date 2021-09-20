@@ -1,13 +1,5 @@
 <img src="img/cdkpatterns_logo.png" width="450" />
 
-This is intended to be a repo containing all of the official AWS Serverless architecture patterns built with AWS CDK for developers to use.
-
-Follow [@CdkPatterns](https://twitter.com/cdkpatterns) for live discussion / new pattern announcements. I plan to add a new pattern weekly so check back regularly!
-
-You can also check out our [Deconstructing CDKPatterns](https://www.youtube.com/channel/UCuR3jnWEnxx1G2axUMVaogg) YouTube channel for in depth walk throughs of the patterns.
-
-Note, this is maintained by [@nideveloper](https://twitter.com/nideveloper) not AWS. For my motivation, please read this [blog post](https://www.mattcoulter.com/blog/post/2)
-
 ## New to AWS CDK?
 
 * To learn more visit the [AWS getting started guide](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html)
